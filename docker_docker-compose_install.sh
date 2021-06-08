@@ -25,6 +25,6 @@ fi
 docker --version
 docker-compose --version
 
-echo "Great Docker and Docker-Compose are installed."
+echo "Great!! Docker and Docker-Compose are installed."
 
 
